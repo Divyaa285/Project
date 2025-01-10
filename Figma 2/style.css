@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;   
 }
+:root{
+    scroll-behavior: smooth;
+}
 
 .first{
     display: flex;
